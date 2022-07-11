@@ -16,7 +16,7 @@ messageDisplay.start();
 
 (async () => {
   //conncect to database 
-  const connection = await msql.createConnection({ host: 'localhost', user: 'root', database: 'employee_db', password: '' });
+  const connection = await msql.createConnection({ host: 'localhost', user: 'root', database: 'employee_db', password: '120920' });
 
   //reusable functions 
   const db = {
