@@ -26,7 +26,7 @@ YouTube video Demo:
 https://youtu.be/j7dc3ZQ_NK0
 
 GitHub project:
-https://github.com/israel2800/team-profile-generator-challenge
+https://github.com/Israel2800/employee-tracker-challenge
 
 
 ## Screenshots-Demo
