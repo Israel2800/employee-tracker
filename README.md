@@ -33,7 +33,7 @@
   
 
   ## Screenshots-Demo
-  ![Screenshot of the HTML file generated.](Assets/images/screenshot-1.png)
+  ![Screenshot of the project running in the gitbash terminal.](Assets/images/screenshot-1.png)
   
   ## Project Objective
   Create an application that allows a company to manage their employees and departments by adding, updating, viewing and deleting required information such as the name of the employees, their role and also if they have a manager. The command line will display a table and the information in this table will depend on the option the user chooses.
@@ -60,7 +60,7 @@
 
   ## Author Contact
   Contact the author with any questions!<br>
-  Github link: [israel2800](https://github.com/israel2800)<br>
+  Github link: [Israel2800](https://github.com/israel2800)<br>
   Email: dady281100@gmail.com
 
   ## License
